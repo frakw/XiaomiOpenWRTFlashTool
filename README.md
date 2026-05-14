@@ -52,10 +52,13 @@ python3 TestTool.py
 
 * Reboot <br>
 <img src="./imgs/TestTool_reboot.png" width="300">
+
 * Upload file <br>
 <img src="./imgs/TestTool_upload.png" width="300">
+
 * Download file <br>
 <img src="./imgs/TestTool_download.png" width="300">
+
 * Custom commands <br>
 <img src="./imgs/TestTool_custom.png" width="300">
 
