@@ -31,8 +31,9 @@ Follow up the GUI guide to flash.
 ## GUI
 Fill folowing informations:
 * Router IP, default is `192.168.31.1`
-* STOK, login to router's dashboard and copy from URL \
+* STOK, login to router's dashboard and copy from URL <br>
 <img src="./imgs/copy_stok.png" width="600">
+
 * Local IP, check from router's dashboard or command `ifconfig/ipconfig`
 
 Execute step by step. \
@@ -49,13 +50,13 @@ python3 TestTool.py
 <details span>
 <summary>Screenshots</summary>
 
-* Reboot \
+* Reboot <br>
 <img src="./imgs/TestTool_reboot.png" width="300">
-* Upload file \
+* Upload file <br>
 <img src="./imgs/TestTool_upload.png" width="300">
-* Download file \
+* Download file <br>
 <img src="./imgs/TestTool_download.png" width="300">
-* Custom commands \
+* Custom commands <br>
 <img src="./imgs/TestTool_custom.png" width="300">
 
 </details>
