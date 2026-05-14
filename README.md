@@ -36,7 +36,8 @@ Fill folowing informations:
 * Local IP, check from router's dashboard or command `ifconfig/ipconfig`
 
 Execute step by step.
-![image](./imgs/FlashTool.png)
+<img src="./imgs/FlashTool.png" width="300">
+
 After successfully flashing the firmware, access `192.168.1.1` via **wired network**. \
 Please note that WiFi is not enabled by default and needs to be switched in the interface settings.
 ## TestTool
@@ -49,12 +50,12 @@ python3 TestTool.py
 <summary>Screenshots</summary>
 
 * Reboot
-![image](./imgs/TestTool_reboot.png)
+<img src="./imgs/TestTool_reboot.png" width="300">
 * Upload file
-![image](./imgs/TestTool_upload.png)
+<img src="./imgs/TestTool_upload.png" width="300">
 * Download file
-![image](./imgs/TestTool_download.png)
+<img src="./imgs/TestTool_download.png" width="300">
 * Custom commands
-![image](./imgs/TestTool_custom.png)
+<img src="./imgs/TestTool_custom.png" width="300">
 
 </details>
